@@ -6,7 +6,7 @@ Created by: Eric Pool, Francisco Castillo, Austin Winkler, Sarah Nus and Jaso Ri
 Hosted by: Concordia University Wisconsin
 
 # About Game
-Orthello is a turn-based board game between two players. This version uses an 8x8 tile board. There are sixty-four identical game pieces called disks, which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. 
+Othello is a turn-based board game between two players. This version uses an 8x8 tile board. There are sixty-four identical game pieces called disks, which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up. 
 
 # Visuals
 [![Start](https://i.gyazo.com/da631d2b606d99cc07b8c32596483272.png)](https://gyazo.com/da631d2b606d99cc07b8c32596483272 | )
