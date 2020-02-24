@@ -3,6 +3,7 @@ Tkinter Hackathon Project - Saturday, February 22, 2020
 
 # Attributions
 Created by: Eric Pool, Francisco Castillo, Austin Winkler, Sarah Nus and Jaso Riha. 
+
 Hosted by: Concordia University Wisconsin
 
 # About Game
