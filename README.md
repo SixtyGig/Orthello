@@ -1,4 +1,4 @@
-# Orthello
+# Othello
 Tkinter Hackathon Project - Saturday, February 22, 2020
 
 # Attributions
